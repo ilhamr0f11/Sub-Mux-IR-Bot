@@ -7,6 +7,9 @@ class Chat:
 
 /help for more details..
 
+Owner           :@LhRfi
+Updates Channel :@irbotsupdate
+
     """
 
     HELP_USER = "??"
