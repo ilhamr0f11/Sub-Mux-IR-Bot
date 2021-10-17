@@ -23,7 +23,7 @@ Updates Channel :@irbotsupdate
 To give custom name to file send it with url seperated with |
 <i>url|custom_name.mp4</i>
 
-<b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
+<b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>"""
 
     DOWNLOAD_SUCCESS = """File downloaded successfully!
 
