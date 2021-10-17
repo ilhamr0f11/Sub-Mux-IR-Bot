@@ -7,8 +7,8 @@ class Chat:
 
 /help for more details..
 
-Owner           :@LhRfi
-Updates Channel :@irbotsupdate
+Owner   :@LhRfi
+Channel :@irbotsupdate
 
     """
 
